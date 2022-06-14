@@ -1,0 +1,19 @@
+{
+  "name": "wdio-resume-session",
+  "version": "1.0.0",
+  "description": "This plugin will allow an existing sessionID to be used by an instance of webdriverio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnreekez/wdio-resume-session.git"
+  },
+  "author": "Roger Enriquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rnreekez/wdio-resume-session/issues"
+  },
+  "homepage": "https://github.com/rnreekez/wdio-resume-session#readme"
+}
